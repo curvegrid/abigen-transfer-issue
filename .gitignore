@@ -1,0 +1,7 @@
+# binaries
+abigen-transfer-issue
+
+# config files
+config*.yaml
+config*.json
+config*.toml
