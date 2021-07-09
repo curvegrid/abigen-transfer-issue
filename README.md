@@ -27,7 +27,7 @@ main.main()
 exit status 2
 ```
 
-Note that we are using a version of go-ethereum with [#23102](https://github.com/ethereum/go-ethereum/pull/23102) included so we can work with pre-Berlin clients.
+Note that we are using a version of go-ethereum with [#23102](https://github.com/ethereum/go-ethereum/pull/23102) included so we can work with ~pre-Berlin~ pre-EIP1559 clients.
 
 Optional:
 - Use `generate.sh` to regenerate the abigen'd `transfer.go` from `Transfer.sol`
